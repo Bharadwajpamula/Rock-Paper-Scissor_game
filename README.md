@@ -1,0 +1,3 @@
+This Rock-Paper-Scissors game is a simple Python project that simulates the classic game. The program uses a dictionary to map the player's and computer's choices ("rock," "paper," or "scissor") to numerical values, enabling easy comparison of outcomes. The computer makes a random choice using the random module, while the user inputs their choice via the console.
+The game evaluates the results based on standard rules: rock beats scissors, scissors beats paper, and paper beats rock. It announces the choices, determines the winner, and handles invalid inputs gracefully. 
+This project demonstrates Python fundamentals like conditionals, user input, and randomness.
